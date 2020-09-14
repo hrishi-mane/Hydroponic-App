@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "852670383736",
+    "firebase_url": "https://hydro-6050a.firebaseio.com",
+    "project_id": "hydro-6050a",
+    "storage_bucket": "hydro-6050a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852670383736:android:57dfa62baaaed4a998cf8d",
+        "android_client_info": {
+          "package_name": "com.e.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852670383736-hb7qpu41o86hkacl6npurreu5s6pobb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqyLEY4mgRPakoPD21xcDpV8nCH7-lvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852670383736-hb7qpu41o86hkacl6npurreu5s6pobb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852670383736:android:355bea89cf953cf698cf8d",
+        "android_client_info": {
+          "package_name": "com.example.hydrophoicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852670383736-puret3ikd1ubks8217aautar1b7lvslj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hydrophoicapp",
+            "certificate_hash": "8f4cb021150db2bdaad8d1b6fb2ac723956af6c3"
+          }
+        },
+        {
+          "client_id": "852670383736-hb7qpu41o86hkacl6npurreu5s6pobb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqyLEY4mgRPakoPD21xcDpV8nCH7-lvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852670383736-hb7qpu41o86hkacl6npurreu5s6pobb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

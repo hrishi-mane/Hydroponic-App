@@ -1,0 +1,2 @@
+rootProject.name='Hydrophoic App'
+include ':app'

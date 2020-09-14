@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/id_mode"
+        android:title="@string/menu_mode_label"
+        app:showAsAction="never">
+        <menu>
+            <item android:id="@+id/id_auto"
+                android:title="@string/menu_mode_auto_label"/>
+            <item android:id="@+id/id_manual"
+                android:title="@string/menu_mode_manual_label"/>
+        </menu>
+    </item>
+</menu>
+

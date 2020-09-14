@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hydrophonic System</string>
+    <string name="Power">Power</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="humidity_lable">Humidity:</string>
+    <string name="temperature_label">Temperature:</string>
+    <string name="menu_mode_label">Mode</string>
+    <string name="menu_mode_auto_label">Automatic</string>
+    <string name="menu_mode_manual_label">Manual</string>
+</resources>
